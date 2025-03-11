@@ -1,0 +1,18 @@
+Diego Enrique Vargas Ramírez - A01635782
+    Codificacion de algoritmo KMP y Manacher
+
+Luis Marco Barriga Baez - A01643954
+    Complejidad de cada funcion y del codigo completo
+
+Ernesto Puga Araujo - A00572845 Checar que las complejidades sean correctas.
+
+
+Francisco Javier Romo Juárez - A01643189
+
+    LCS (Longest Common Substring - Part 3) FUNCTION IMPLEMENTATION 
+
+Iñaki González Morales - A01612126
+    -Descripción de las funciones del programa y análisis del código.
+
+Adair Virgilio Figueroa Medina - A00572826
+    -Revision y apoyo externo de los procesos del codigo
