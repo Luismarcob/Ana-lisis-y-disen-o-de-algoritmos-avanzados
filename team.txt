@@ -1,0 +1,17 @@
+Diego Enrique Vargas Ramírez - A01635782
+    Codificacion de algoritmo de Prim
+
+Luis Marco Barriga Baez - A01643954
+    Codificacion de Held Karp
+
+Ernesto Puga Araujo - A00572845 
+    Codificacion de TSP
+
+Francisco Javier Romo Juárez - A01643189
+    Codificacion de Ford Fulkerson
+
+Iñaki González Morales - A01612126
+    Funciones de asistencia
+
+Adair Virgilio Figueroa Medina - A00572826
+    Complejidad de los codigos y asistencia
